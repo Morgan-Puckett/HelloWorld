@@ -8,7 +8,6 @@ Module HelloWorld
         Console.ReadLine()
         Console.Beep()
         Console.WriteLine("It was good meeting you too")
-        Dim F = Console.BackgroundColor.Yellow
         Console.Beep()
         Console.Beep()
     End Sub
